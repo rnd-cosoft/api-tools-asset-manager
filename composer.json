@@ -1,5 +1,5 @@
 {
-    "name": "laminas-api-tools/api-tools-asset-manager",
+    "name": "rnd-cosoft/api-tools-asset-manager",
     "description": "Composer plugin for copying module assets into application document roots.",
     "type": "composer-plugin",
     "license": "BSD-3-Clause",
