@@ -61,6 +61,7 @@
         "static-analysis": "psalm --shepherd --stats"
     },
     "replace": {
-        "zfcampus/zf-asset-manager": "^1.2.0"
+        "zfcampus/zf-asset-manager": "^1.2.0",
+        "laminas-api-tools/api-tools-asset-manager": "*"
     }
 }
